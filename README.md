@@ -94,7 +94,7 @@ composeApp/
 
 1. Clone repository:  
 ```bash
-git clone <repo-url>
+git clone https://github.com/cybertank378/RailwayApp-Test
 cd composeApp
 
 ./gradlew run
